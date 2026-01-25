@@ -13,10 +13,10 @@ title                    : "Qiaoqiao Li"
 title_separator          : "-"
 name                     : &name "Qiaoqiao Li"
 description              : &description "Postdoctoral Researcher | Hydroclimate & Drought"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Qiaoqiao-Li.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://qiaoqiao-li.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://Qiaoqiao-Li.github.io"
+repository               : "qiaoqiao-li/qiaoqiao-li.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
