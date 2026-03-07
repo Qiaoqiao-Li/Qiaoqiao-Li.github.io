@@ -1,7 +1,7 @@
 ---
 title: "The Peer-to-Peer Type Propagation From Meteorological Drought to Hydrological Drought"
 collection: publications
-year: 2022
+date: 2022-01-01
 venue: "Water Resources Research"
 permalink: /publication/li2022_wrr
 ---
